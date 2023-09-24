@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadrinarayana&label=Profile%20views&color=0e75b6&style=flat" alt="bhadrinarayana" /> </p>
 
-- 🌱 I’m currently studying **CSE 3rd year**
+- 🌱 I’m currently studying **CSE Final year**
 
 - 📫 How to reach me **bhadrinarayana445@gmail.com**
 
